@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="Title">Hello world</string>
+    <string name="x_art">X-art</string>
+    <string name="met_art">Met-art</string>
+    <string name="select_all">全选</string>
+    <string name="shopping_cart">购物车</string>
+    <string name="tmall">天猫苹果旗舰店</string>
+    <string name="tmall_market">天猫超市</string>
+    <string name="cola">可口可乐</string>
+    <string name="iphone6splus">iPhone 6s Plus</string>
+    <string name="iphone7plus">iPhone 7 Plus</string>
+    <string name="pepsi">百事可乐</string>
+    <string name="g_male">Male</string>
+    <string name="g_female">Female</string>
+    <string name="g_3rd">3rd gender</string>
+    <string name="images">自动显示图片</string>
+    <string name="button_layout">布局展示</string>
+    <string name="text_down">这是第三段测试文字</string>
+    <string name="text_left">这是一段测试文字</string>
+    <string name="text_right">这是另外一段测试文字</string>
+</resources>
